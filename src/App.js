@@ -34,7 +34,6 @@ function App() {
 
   return (
     <div>
-    <fieldset>
      <center>
         <div style={top}>
           <h2>Here we are using some </h2>
@@ -59,7 +58,6 @@ function App() {
         </div>
             <hr/>
       </center>
-    </fieldset>
     </div>
   );
 }
